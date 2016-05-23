@@ -494,8 +494,7 @@
 		<script type="text/javascript" src="js/zoomsl-3.0.min.js"></script>
 		
 		<!-- Main Script -->
-		<script type="text/javascript" src="js/script.js"></script>
-		
+		<script type="text/javascript" src="js/script.js"></script>		
 		
 		<!--[if lt IE 9]>
 			<script type="text/javascript" src="js/jquery.placeholder.js"></script>
