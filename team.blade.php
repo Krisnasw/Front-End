@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
-		
 		<!-- Meta Tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<!-- Title -->
-		<title>Contact | SEAMEO SEAMOLEC</title>
+		<title>Team | SEAMEO SEAMOLEC</title>
 		
 		<!-- Favicon -->
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
@@ -23,7 +21,9 @@
 		<link href="css/chosen.css" rel="stylesheet" type="text/css">
 		<link href="jackbox/css/jackbox.min.css" rel="stylesheet" type="text/css" />
 		<link href="css/cloud-zoom.css" rel="stylesheet" type="text/css" />
+		
 		<link href="css/style.css" rel="stylesheet" type="text/css">
+
 		
 		<!--[if IE 9]>
 			<link rel="stylesheet" href="css/ie9.css">
@@ -67,7 +67,7 @@
 			
 			$("body").queryLoader2({
 				backgroundColor: '#f2f4f9',
-				barColor: '#d32f2f',
+				barColor: '#63b2f5',
 				barHeight: 4,
 				percentage:false,
 				deepSearch:true,
@@ -103,15 +103,13 @@
 	<body class="sticky-header-on tablet-sticky-header">
 	
 	<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.6&appId=451303015068704";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-		</script>
-
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>		
 		<!-- Container -->
 		<div class="container">
 			
@@ -122,8 +120,8 @@
 			<!-- Page Heading -->
 			<section class="section page-heading animate-onscroll">
 				
-				<h1>Contact</h1>
-				<p class="breadcrumb"><a href="main-v1.html">Home</a> / Contact</p>
+				<h1>Team</h1>
+				<p class="breadcrumb"><a href="main-v1.html">Home</a> / Team</p>
 				
 			</section>
 			<!-- Page Heading -->
@@ -133,55 +131,114 @@
 				
 				<div class="row">
 				
-					<div class="col-lg-9 col-md-9 col-sm-8">
+					<div class="col-lg-12 col-md-12 col-sm-12">
 						
-						<h3 class="animate-onscroll no-margin-top">Our Location</h3>
-						
-						<div class="contact-map">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.415325894211!2d106.75621531436174!3d-6.340218663796721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69efa7d6a0fb6d%3A0xb439cc368adc3720!2sSEAMOLEC!5e0!3m2!1sid!2sid!4v1463976689972" width="900" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-						</div>
+						<h3 class="animate-onscroll no-margin-top">Meet our team</h3>
 						
 						<div class="row">
 							
-							<div class="col-lg-4 col-md-4 col-sm-6 animate-onscroll">
+							<div class="col-lg-3 col-md-3 col-sm-6">
 								
-								<h6>Address</h6>
-								<p>Kompleks Universitas Terbuka
-								Jl. Cabe Raya, Pondok Cabe
-								Pamulang - 15418
-								Tangerang Selatan, Indonesia</p>
-								
+								<!-- Team Member -->
+								<div class="team-member animate-onscroll ">
+									
+									<img class="team-member-image" src="img/team/4.jpg" alt="">
+									
+									<div class="team-member-info">
+										
+										<h2>Eva Savits</h2>
+										<span class="job">Senate Majority Leader</span>
+										
+										<div class="team-member-more">
+											<p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus.</p>
+										</div>
+										
+									</div>
+									
+								</div>
+								<!-- /Team Member -->							
 							</div>
 							
-							<div class="col-lg-4 col-md-4 col-sm-6 animate-onscroll">
+							<div class="col-lg-3 col-md-3 col-sm-6">
 								
-								<h6>Phone Numbers</h6>
-								<p>(62-21) 742 3725, 742 4154<br>
-								(62-21) 742 2276 ( Fax )</p>
-								
+																<!-- Team Member -->
+								<div class="team-member animate-onscroll ">
+									
+									<img class="team-member-image" src="img/team/5.jpg" alt="">
+									
+									<div class="team-member-info">
+										
+										<h2>John McCoist</h2>
+										<span class="job">Democratic National Committee Chair</span>
+										
+										<div class="team-member-more">
+											<p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus.</p>
+										</div>
+										
+									</div>
+									
+								</div>
+								<!-- /Team Member -->							
 							</div>
 							
-							<div class="col-lg-4 col-md-4 col-sm-6 animate-onscroll">
+							<div class="col-lg-3 col-md-3 col-sm-6">
 								
-								<h6>Email Address</h6>
-								<p><a href="mailto:secretariat@seamolec.org">secretariat@seamolec.org</a>
+								<!-- Team Member -->
+								<div class="team-member animate-onscroll ">
+									
+									<img class="team-member-image" src="img/team/6.jpg" alt="">
+									
+									<div class="team-member-info">
+										
+										<h2>Caroline Beek</h2>
+										<span class="job">Senate Majority Leader</span>
+										
+										<div class="team-member-more">
+											<p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus.</p>
+										</div>
+										
+									</div>
+									
+								</div>
+								<!-- /Team Member -->							
+							</div>
+							
+							<div class="col-lg-3 col-md-3 col-sm-6">
 								
+								<!-- Team Member -->
+								<div class="team-member animate-onscroll ">
+									
+									<img class="team-member-image" src="img/team/7.jpg" alt="">
+									
+									<div class="team-member-info">
+										
+										<h2>Sam Kromstain</h2>
+										<span class="job">House Democratic Leader</span>
+										
+										<div class="team-member-more">
+											<p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus.</p>
+										</div>
+										
+									</div>
+									
+								</div>
+								<!-- /Team Member -->							
 							</div>
 							
 						</div>
+						
+					</div>
 
-						</div>
-					
-					<?php include('left.blade.php'); ?>
-				
 				</div>
 				
 			</section>
 			<!-- /Section -->
 		
 		</section>
-
-		<?php include('footer.php'); ?>
+			
+			<!-- Footer -->
+			<?php include('footer.php'); ?>
+			<!-- /Footer -->
 			
 			<!-- Back To Top -->
 			<a href="#" id="button-to-top"><i class="icons icon-up-dir"></i></a>
@@ -233,7 +290,8 @@
 		<script type="text/javascript" src="js/zoomsl-3.0.min.js"></script>
 		
 		<!-- Main Script -->
-		<script type="text/javascript" src="js/script.js"></script>		
+		<script type="text/javascript" src="js/script.js"></script>
+		
 		
 		<!--[if lt IE 9]>
 			<script type="text/javascript" src="js/jquery.placeholder.js"></script>

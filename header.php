@@ -192,7 +192,7 @@
 		                    </ul>
 		                </li>
 
-		                <li class="nav-item"><a id="menu-font" href="?p=ddc">Contact Us</a></li>                
+		                <li class="nav-item"><a id="menu-font" href="contact.blade.php">Contact Us</a></li>                
 			            </ul><!--//nav-->
 			            </div>
 

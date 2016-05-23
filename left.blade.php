@@ -1,13 +1,15 @@
-<!-- Sidebar -->
+					<!-- Sidebar -->
 					<div class="col-lg-3 col-md-3 col-sm-4 sidebar">
 						
-												<!-- Featured Video -->
+						<!-- Featured Video -->
 						<div class="sidebar-box white featured-video animate-onscroll">
 							<h3>Featured Video</h3>
 							<iframe width="560" height="315" src="//www.youtube.com/embed/FBorRZnqtMo?wmode=transparent" allowfullscreen></iframe>
 							<a href="#" class="button transparent button-arrow">More videos</a>
 						</div>
-						<!-- /Featured Video -->						<!-- Upcoming Events -->
+						<!-- /Featured Video -->						
+
+						<!-- Upcoming Events -->
 						<div class="sidebar-box white animate-onscroll">
 							<h3>Upcoming Events</h3>
 							<ul class="upcoming-events">
