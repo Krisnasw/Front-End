@@ -11,16 +11,19 @@
 						<!-- Logo -->
 						<div id="logo" class="col-lg-3 col-md-3 col-sm-3">
 							
-							<a href="main-v1.html"><img src="img/logo.png" alt="Logo"></a>
+							<a href="main-v1.php"><img src="img/logo.png" alt="SEAMEO SEAMOLEC LOGO"></a>
 							
 						</div>
-						<!-- /Logo -->
-
+						<!-- /Logo -->						
+						
+						
 						<!-- Main Quote -->
 						<div class="col-lg-5 col-md-4 col-sm-4">
 							
 						</div>
 						<!-- /Main Quote -->
+						
+						
 						
 						<!-- Newsletter -->
 						<div class="col-lg-4 col-md-5 col-sm-5">
@@ -29,7 +32,7 @@
 				                <p class="phone"><a href="#"><i class="icons icon-phone-1"></i>(62-21) 742 3725, 742 4154</a></p>   
 				                <p class="phone"><a href="#"><i class="icons icon-phone-squared"></i>(62-21) 742 2276</a></p> 
 				                <p class="phone"><a href="#"><i class="icons icon-email">&nbsp</i>secretariat@seamolec.org</a></p>
-				            </div><!--//contact-->
+				            </div>
 							
 						</div>
 						<!-- /Newsletter -->
@@ -43,156 +46,210 @@
 				
 				<!-- Lower Header -->
 				<div id="lower-header">
-				<div class="container">
 					
-				<nav>
-				  <div class="container-fluid">
-				    <!-- Brand and toggle get grouped for better mobile display -->
-				    <div class="navbar-collapse collapse" id="navbar-collapse">
-		            <ul id="navigation">
-		                <li class="nav-item"><a id="menu-font" href="main-v1.php"><i class="icons icon-home"></i> Homepage</a></li>
-
-		                <li class="nav-item dropdown">
-		                    <a class="dropdown-toggle" id="menu-font" data-toggle="dropdown" data-hover="dropdown-toggle" data-delay="0" data-close-others="false" href="#">About </a>
-		                    <ul class="dropdown-menu">
-		                        <li><a href="?p=128" id="menu-font">About SEAMEO</a></li>
-		                        <li class="nav-item dropdown">
-		                            <a href="#" id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">About SEAMOLEC </a>
-		                            <ul class="dropdown-menu">
-									<li class="dropdown-submenu">
-		                                    <a href="?p=13e" id="menu-font">Director Remaks </a>
-		                                    <ul class="dropdown-menu">
-		                                        <li><a id="menu-font" href="?p=2d5" target="_blank" id="menu-font">Board of Directors</a></li>
-		                                    </ul>
-		                                </li>
-		                                <li><a id="menu-font" href="?p=046">Vision and Mision</a></li>
-		                                <li><a id="menu-font" href="?p=15e">Core Values</a></li>
-		                                <li class="dropdown-submenu">
-		                                    <a id="menu-font" href="#">Programmes <i class="fa fa-angle-right"></i></a>
-		                                    <ul class="dropdown-menu">
-		                                        <li><a id="menu-font" href="http://socma.seamolec.org" target="_blank">SOCMA</a></li>
-		                                        <li><a id="menu-font" href="#">SOCD</a></li>
-		                                        <li><a id="menu-font" href="http://simulasidigital.seamolec.org" target="_blank">Digital Simulation</a></li>
-		                                        <li><a id="menu-font" href="http://magiscamp.seamolec.org" target="_blank">MAGIS CAMP</a></li>
-		                                        <li><a id="menu-font" href="#" target="_blank">Project Based Learning</a></li>
-		                                    </ul>
-		                                </li>    
-		                                <li><a id="menu-font" href="?p=cec">Goal and Objectives</a></li>
-		                                <li><a id="menu-font" href="?p=23f">Functions</a></li>
-		                                <li><a id="menu-font" href="?p=ba9">Beneficiaries</a></li>
-		                                <li><a id="menu-font" href="?p=0fb">Team</a></li>
-		                            </ul>
-		                        </li>          
-		                        <li class="dropdown-submenu">
-		                            <a href="#" id="menu-font">Partners <i class="fa fa-angle-right"></i></a>
-		                            <ul class="dropdown-menu">
-		                                <li class="dropdown-submenu">
-		                                    <a href="#" id="menu-font">Letter of Intent <i class="fa fa-angle-right"></i></a>
-		                                    <ul class="dropdown-menu">
-		                                        <li><a id="menu-font" href="?p=040&k=LoI&n=ID">Indonesia</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=LoI&n=KR">Korea</a></li>
-		                                    </ul>
-		                                </li>
-		                                <li class="dropdown-submenu">
-		                                    <a id="menu-font" href="#">MOU <i class="fa fa-angle-right"></i></a>
-		                                    <ul class="dropdown-menu">
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=ID">Indonesia</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=KR">Korea</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=TH">Thailand</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=PH">Philippines</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=KH">Cambodia</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=BN">Brunai Darussalam</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=JP">Japan</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoU&n=CN">China</a></li>
-		                                    </ul>
-		                                </li> 
-		                                <li class="dropdown-submenu">
-		                                    <a href="#" id="menu-font">MOA<i class="fa fa-angle-right"></i></a>
-		                                    <ul class="dropdown-menu">
-		                                        <li><a id="menu-font" href="?p=040&k=MoA&n=ID">Indonesia</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoA&n=KH">Cambodia</a></li>
-		                                        <li><a id="menu-font" href="?p=040&k=MoA&n=JP">Japan</a></li>
-		                                    </ul>
-		                                </li>    
-		                            </ul>
-		                        </li>  
-		                    </ul>
-		                </li>
-		                
-		                <li class="nav-item dropdown">
-		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Programmes </a>
-		                    <ul class="dropdown-menu">
-		                        <li class="dropdown-submenu">
-		                            <a href="#" id="menu-font">Training <i class="fa fa-angle-right"></i></a>
-		                            <ul class="dropdown-menu">
-		                                <li><a id="menu-font" href="?p=22e&div=4">IT Content</a></li>
-		                                <li><a id="menu-font" href="?p=22e&div=3">IT Network</a></li>
-		                                <li><a id="menu-font" href="?p=22e&div=5">Public Relation & Marketing</a></li>
-		                                <li><a id="menu-font" href="?p=22e&div=1">Research & Development</a></li>
-		                                <li><a id="menu-font" href="?p=22e&div=6">Training</a></li>
-		                            </ul>
-		                        </li>     
-		                        <li class="dropdown-submenu">
-		                            <a id="menu-font" href="#">Services <i class="fa fa-angle-right"></i></a>
-		                            <ul class="dropdown-menu">
-		                                <li class="dropdown-submenu">
-		                                    <a id="menu-font" href="#">Partnerships<i class="fa fa-angle-right"></i></a>
-		                                    <ul class="dropdown-menu">
-		                                        <li class="dropdown-submenu">
-		                                            <a id="menu-font" href="#">Indonesia<i class="fa fa-angle-right"></i></a>
-		                                            <ul class="dropdown-menu">
-		                                                <li><a href="#">MOU</a></li>
-		                                                <li><a href="#">MOA</a></li>
-		                                                <li><a href="#">WP</a></li>
-		                                            </ul>
-		                                        </li>
-		                                        <li><a id="menu-font" href="https://seachina.wordpress.com/" target="_blank">ASEAN China</a></li>
-		                                        <li><a id="menu-font" href="http://gojapan.seamolec.org/" target="_blank">ASEAN Japan</a></li>
-		                                        <li><a id="menu-font" href="http://willkommen.seamolec.org/" target="_blank">ASEAN German</a></li>
-		                                        <li><a id="menu-font" href="https://seakorea.wordpress.com/" target="_blank">ASEAN Korea</a></li>
-		                                        <li><a id="menu-font" href="#">ASEAN France</a></li>
-		                                    </ul>
-		                                </li>
-		                                <li><a id="menu-font" href="?p=11e">Consulting</a></li>
-		                                <li><a id="menu-font" href="http://intercenter.seamolec.org/" target="_blank">Inter Colaboration Center</a></li>
-		                            </ul>
-		                        </li>       
-		                    </ul>
-		                </li>
-
-		                <li class="nav-item dropdown">
-		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#"> Info </a>
-		                    <ul class="dropdown-menu">
-		                        <li><a id="menu-font" href="?p=23a">Training</a></li>
-		                        <li><a id="menu-font" href="http://seajournal.seamolec.org/" target="_blank">Journal</a></li>
-		                        <li><a id="menu-font" href="http://hibahpenelitian.seamolec.org/" target="_blank">Research Grants</a></li>                            
-		                        <li><a id="menu-font" href="?p=917">Channel</a></li>     
-								<li><a id="menu-font" href="?p=16dg">Digital Resources</a></li>         
-								<li><a id="menu-font" href="?p=89a">Sources Book</a></li>
-		                        <li><a id="menu-font" href="?p=90a">Seminar International</a></li>
-		                    </ul>
-		                </li><!--//dropdown-->            
-
-		                <li class="nav-item dropdown">
-		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Publications </a>
-		                    <ul class="dropdown-menu">
-		                        <li class="dropdown-submenu">
-		                            <a id="menu-font" href="?p=2a1">Annual Report</i></a>                            
-		                        </li>     
-		                        <li><a id="menu-font" href="http://magazine.seamolec.org/" target="_blank">Magazine</a></li>                         
-		                        <li><a id="menu-font" href="#">News Letter</a></li> 			 
-		                    </ul>
-		                </li>
-
-		                <li class="nav-item"><a id="menu-font" href="contact.blade.php">Contact Us</a></li>                
-			            </ul><!--//nav-->
-			            </div>
-
-						  </div><!-- /.container-fluid -->
-						</nav>
+					<div class="container">
+					
+					<div id="menu-button">
+						<div>
+						<span></span>
+						<span></span>
+						<span></span>
 						</div>
-						</div>
-						<!-- /Lower Header -->
+						<span>Menu</span>
+					</div>
+					
+					<ul id="navigation">
 						
-					</header>
-					<!-- /Header -->
+						<!-- Home -->
+						<li class="current-menu-item">
+						
+							<a href="main-v1.php"><i class="icons icon-home"></i>Homepage</a>
+							
+						</li>
+						<!-- /Home -->
+						
+						<!-- Pages -->
+						<li class="current-menu-item">
+						
+							<span>About</span>
+							
+							<ul>
+							
+								<li><a href="seameo.blade.php">About SEAMEO</a></li>
+								<li><a href="#">About SEAMOLEC</a>
+									<ul>
+										<li><a href="#">Director Remaks</a>
+											<ul>
+												<li><a href="bod.blade.php">Board of Directors</a></li>
+											</ul>
+										</li>
+										<li><a href="vm.blade.php">Vision and Mision</a></li>
+										<li><a href="core.blade.php">Core Values</a></li>
+										<li><a href="prog.blade.php">Programmes</a>
+											<ul>
+												<li><a href="socma.blade.php">SOCMA</a></li>
+												<li><a href="socd.blade.php">SOCD</a></li>
+												<li><a href="ds.blade.php">Digital Simulation</a></li>
+												<li><a href="magis.blade.php">Magis Camp</a></li>
+												<li><a href="pbl.blade.php">Project Based Learning</a></li>
+											</ul>
+										</li>
+										<li><a href="goal.blade.php">Goal and Objectives</a></li>
+										<li><a href="func.blade.php">Functions</a></li>
+										<li><a href="benef.blade.php">Beneficiares</a></li>
+										<li><a href="team.blade.php">Team</a></li>
+									</ul>
+								</li>
+								<li><a href="partner.blade.php">Partners</a>
+									<ul>
+										<li><a href="#">Letter of Intent</a>
+											<ul>
+												<li><a href="lindo.blade.php">Indonesia</a></li>
+												<li><a href="lkor.blade.php">Korea</a></li>
+											</ul>
+										</li>
+										<li><a href="#">MOU</a>
+											<ul>
+												<li><a href="mindo.blade.php">Indonesia</a></li>
+												<li><a href="mkor.blade.php">Korea</a></li>
+												<li><a href="mthai.blade.php">Thailand</a></li>
+												<li><a href="mpenoy.blade.php">Philippines</a></li>
+												<li><a href="mcam.blade.php">Cambodia</a></li>
+												<li><a href="mbd.blade.php">Brunai Darussalam</a></li>
+												<li><a href="mjav.blade.php">Japan</a></li>
+												<li><a href="mcino.blade.php">China</a></li>
+											</ul>
+										</li>
+										<li><a href="#">MOA</a>
+											<ul>
+												<li><a href="oindo.blade.php">Indonesia</a></li>
+												<li><a href="ocam.blade.php">Cambodia</a></li>
+												<li><a href="ojav.blade.php">Japan</a></li>
+											</ul>
+										</li>
+									</ul>
+
+							</ul>
+							
+						</li>
+						<!-- /Pages -->
+						
+						<!-- Events -->
+						<li >
+						
+							<span>Programmes</span>
+							
+							<ul>
+							
+								<li><a href="#">Training</a>
+									<ul>
+										<li><a href="itc.blade.php">IT Content</a></li>
+										<li><a href="itn.blade.php">IT Network</a></li>
+										<li><a href="prm.blade.php">Public Relation & Marketing</a></li>
+										<li><a href="rnd.blade.php">Research & Development</a></li>
+										<li><a href="trn.blade.php">Training</a></li>
+									</ul>
+								</li>
+								<li><a href="#">Services</a>
+									<ul>
+										<li><a href="pns.blade.php">Partnerships</a>
+											<ul>
+												<li><a href="#">Indonesia</a>
+													<ul>
+														<li><a href="mou.blade.php">MOU</a></li>
+														<li><a href="moa.blade.php">MOA</a></li>
+														<li><a href="wp.blade.php">WP</a></li>
+													</ul>
+												</li>
+												<li><a href="ascino.blade.php">ASEAN China</a></li>
+												<li><a href="asjav.blade.php">ASEAN Japan</a></li>
+												<li><a href="asger.blade.php">ASEAN German</a></li>
+												<li><a href="askor.blade.php">ASEAN Korea</a></li>
+												<li><a href="asfra.blade.php">ASEAN France</a></li>
+											</ul>
+										</li>
+										<li><a href="consul.blade.php">Consulting</a></li>
+										<li><a href="icc.blade.php">Inter Colaboration Center</a></li>
+
+									</ul>
+								
+							</ul>
+							
+						</li>
+						<!-- /Events -->
+						
+						<!-- Media -->
+						<li >
+						
+							<span>Info</span>
+							
+							<ul>
+							
+								<li>
+									<a href="tra.blade.php">Training</a>
+								</li>
+								
+								<li>
+									<a href="http://seajournal.seamolec.org/">Journal</a>
+								</li>
+								
+								<li>
+									<a href="rg.blade.php">Research Grants</a>
+								</li>
+								
+								<li>
+									<a href="ch.blade.php">Channel</a>
+								</li>
+
+								<li>
+									<a href="dr.blade.php">Digital Resources</a>
+								</li>
+
+								<li>
+									<a href="sb.blade.php">Sources Book</a>
+								</li>
+
+								<li>
+									<a href="si.blade.php">Seminar International</a>
+								</li>
+
+							</ul>
+							
+						</li>
+						<!-- /Media -->
+						
+						<!-- Features -->
+						<li >
+						
+							<span>Publications</span>
+							
+							<ul>
+							
+								<li><a href="ar.blade.php">Annual Reports</a></li>
+								<li><a href="mag.blade.php">Magazine</a></li>
+								<li><a href="nl.blade.php">News Letter</a></li>
+								
+							</ul>
+							
+						</li>
+						<!-- /Features -->
+						
+						
+						<!-- Blog -->
+						<li >
+						
+							<a href="contact.blade.php">Contact Us</a>
+							
+						</li>
+						<!-- /Blog -->
+						
+					</ul>
+					
+					</div>
+					
+				</div>
+				<!-- /Lower Header -->
+				
+				
+			</header>
+			<!-- /Header -->

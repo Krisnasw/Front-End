@@ -49,15 +49,11 @@
 								</li>
 								
 								<li id="main_flex_2">
-								
-									<div class="slide align-center">
-										<h4 class="great-vibes">it’s time for changes</h4>
-										<h2>Building Our Future Together!</h2>
-										<a href="#" class="button big button-arrow">Get Involved</a>
-									</div>
+
+								<iframe width="560" height="500" src="https://www.youtube.com/embed/xzKFE6JDIfg" frameborder="0" allowfullscreen></iframe>
 									
 								</li>
-																
+
 							</ul>
 							
 						</div>	
@@ -108,8 +104,6 @@
 				
 			</section>
 			<!-- /Section -->
-			
-			
 			
 			
 			<!-- Section -->
