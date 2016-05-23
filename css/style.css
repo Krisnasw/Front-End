@@ -1199,10 +1199,10 @@ h6.shortcodes-caption{
 	height:30px;
 	text-align:center;
 	padding-top:3px;
-	color:#808ca4;
+	color:#fff;
 	border-top:1px solid #f3f7fa;
 	border-bottom:1px solid #bfc8d7;
-	background:#e2eaf2;
+	background:#e57373;
 	cursor:pointer;
 	border-radius:3px;
 	-webkit-border-radius:3px;
@@ -1220,14 +1220,10 @@ h6.shortcodes-caption{
 
 .owl-header .carousel-arrows span:hover{
 	color:#fff;
-	background:#63b2f5;
-	border-top-color:#7cc5f8;
-	border-bottom-color:#579dd9;
+	background:#ff5252;
+	border-top-color:#d50000;
+	border-bottom-color:#d50000;
 }
-
-
-
-
 
 
 /* Blog Posts */
