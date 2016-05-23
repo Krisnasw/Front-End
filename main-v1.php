@@ -134,7 +134,8 @@
 							<a href="blog-single-sidebar.html" class="button read-more-button big button-arrow">Read More</a>
 							
 						</div>
-						<!-- /Blog Post -->						
+						<!-- /Blog Post -->
+												
 						<!-- Owl Carousel -->
 						<div class="owl-carousel-container">
 							

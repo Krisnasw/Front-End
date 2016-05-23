@@ -345,7 +345,6 @@ h6.shortcodes-caption{
 
 #logo{
 	padding-top:25px;
-	padding-left:40px;
 }
 
 #newsletter{
@@ -6025,20 +6024,14 @@ blockquote.link-quote:after{
 	right:0;
 }
 
-
-
-
-
-
 /* Tables */
 
 table{
 	width:100%;
-	background:#fafbfd;
+	background:transparent;
 	border-radius:5px;
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;
-	border:1px solid #ecedf1;
 	overflow:hidden;
 }
 
@@ -6076,7 +6069,6 @@ table tr:last-child th:last-child{
 
 table td,
 table th{
-	border:1px solid #ecedf1;
 	padding:12px 20px;
 	text-align:left;
 	transition:background 0.3s;
@@ -6086,12 +6078,8 @@ table th{
 
 table tr:hover>td,
 table tr:hover>th{
-	background:#fff;
+	background:transparent;
 }
-
-
-
-
 
 
 /* Forms */
