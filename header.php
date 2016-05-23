@@ -1,4 +1,4 @@
-<!-- Header -->
+			<!-- Header -->
 			<header id="header" class="animate-onscroll">
 				
 				<!-- Main Header -->
@@ -42,9 +42,9 @@
 				<!-- /Main Header -->
 				
 				<!-- Lower Header -->					
-					<div class="container">
+				<div class="container">
 					
-					<nav>
+				<nav>
 				  <div class="container-fluid">
 				    <!-- Brand and toggle get grouped for better mobile display -->
 				    <div class="navbar-header">
