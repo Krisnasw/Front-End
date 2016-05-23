@@ -57,17 +57,7 @@
 									</div>
 									
 								</li>
-								
-								<li id="main_flex_3">
-								
-									<div class="slide align-right">
-										<h2>10 YEARS OF EXPERIENCE</h2>
-										<p>Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor,<br> dapibus eget, elementum vel, cursus eleifend, elit. </p>
-										<a href="#" class="button big button-arrow">More Info</a>
-									</div>
-									
-								</li>
-								
+																
 							</ul>
 							
 						</div>	

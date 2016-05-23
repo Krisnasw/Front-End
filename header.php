@@ -41,34 +41,26 @@
 				</div>
 				<!-- /Main Header -->
 				
-				<!-- Lower Header -->					
+				<!-- Lower Header -->
+				<div id="lower-header">
 				<div class="container">
 					
 				<nav>
 				  <div class="container-fluid">
 				    <!-- Brand and toggle get grouped for better mobile display -->
-				    <div class="navbar-header">
-				      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-				        <span class="sr-only">Toggle navigation</span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				      </button>
-				      <a class="navbar-brand" href="main-v1.php" id="menu-font"><i class="icons icon-home"></i></a>
-				    </div>
 				    <div class="navbar-collapse collapse" id="navbar-collapse">
-		            <ul class="nav navbar-nav">
-		                <li class="nav-item"><a id="menu-font" href="main-v1.php"><i class="fa fa-home"></i> Homepage</a></li>
+		            <ul id="navigation">
+		                <li class="nav-item"><a id="menu-font" href="main-v1.php"><i class="icons icon-home"></i> Homepage</a></li>
 
 		                <li class="nav-item dropdown">
-		                    <a class="dropdown-toggle" id="menu-font" data-toggle="dropdown" data-hover="dropdown-toggle" data-delay="0" data-close-others="false" href="#">About <i class="icons icon-down-dir"></i></a>
+		                    <a class="dropdown-toggle" id="menu-font" data-toggle="dropdown" data-hover="dropdown-toggle" data-delay="0" data-close-others="false" href="#">About </a>
 		                    <ul class="dropdown-menu">
 		                        <li><a href="?p=128" id="menu-font">About SEAMEO</a></li>
 		                        <li class="nav-item dropdown">
-		                            <a href="#" id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">About SEAMOLEC <i class="icons icon-right-thin"></i></a>
+		                            <a href="#" id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">About SEAMOLEC </a>
 		                            <ul class="dropdown-menu">
 									<li class="dropdown-submenu">
-		                                    <a href="?p=13e" id="menu-font">Director Remaks <i class="fa fa-angle-right"></i></a>
+		                                    <a href="?p=13e" id="menu-font">Director Remaks </a>
 		                                    <ul class="dropdown-menu">
 		                                        <li><a id="menu-font" href="?p=2d5" target="_blank" id="menu-font">Board of Directors</a></li>
 		                                    </ul>
@@ -128,7 +120,7 @@
 		                </li>
 		                
 		                <li class="nav-item dropdown">
-		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Programmes <i class="icons icon-down-dir"></i></a>
+		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Programmes </a>
 		                    <ul class="dropdown-menu">
 		                        <li class="dropdown-submenu">
 		                            <a href="#" id="menu-font">Training <i class="fa fa-angle-right"></i></a>
@@ -169,7 +161,7 @@
 		                </li>
 
 		                <li class="nav-item dropdown">
-		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#"> Info <i class="fa fa-angle-down"></i></a>
+		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#"> Info </a>
 		                    <ul class="dropdown-menu">
 		                        <li><a id="menu-font" href="?p=23a">Training</a></li>
 		                        <li><a id="menu-font" href="http://seajournal.seamolec.org/" target="_blank">Journal</a></li>
@@ -182,7 +174,7 @@
 		                </li><!--//dropdown-->            
 
 		                <li class="nav-item dropdown">
-		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Publications <i class="fa fa-angle-down"></i></a>
+		                    <a id="menu-font" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Publications </a>
 		                    <ul class="dropdown-menu">
 		                        <li class="dropdown-submenu">
 		                            <a id="menu-font" href="?p=2a1">Annual Report</i></a>                            
@@ -198,7 +190,8 @@
 
 						  </div><!-- /.container-fluid -->
 						</nav>
-							</div>
+						</div>
+						</div>
 						<!-- /Lower Header -->
 						
 					</header>
