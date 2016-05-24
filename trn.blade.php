@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<!-- Title -->
-		<title>IT Content | SEAMEO SEAMOLEC</title>
+		<title>Training | SEAMEO SEAMOLEC</title>
 		
 		<?php include('style.blade.php'); ?>
 		
@@ -38,13 +38,11 @@
 			<!-- Page Heading -->
 			<section class="section page-heading animate-onscroll">
 				
-				<h1>IT Content</h1>
-				<p class="breadcrumb"><a href="main-v1.html">Home</a> / IT Content</p>
+				<h1>Training</h1>
+				<p class="breadcrumb"><a href="main-v1.html">Home</a> / Training</p>
 				
 			</section>
 			<!-- Page Heading -->
-			
-
 			
 			<!-- Section -->
 			<section class="section full-width-bg gray-bg">
@@ -395,18 +393,17 @@
 									
 									<div class="media-button">
 										<a href="portfolio-single-sidebar.html" class="button big button-arrow">More info</a>
-																			</div>
+									</div>
 								
 								</div>
-								
-																
+												
 							</div>
 							<!-- /Media Item -->							
 							</div>
 							
 							<div class="col-lg-3 col-md-4 col-sm-6 mix category-photos" data-nameorder="1" data-dateorder="3">
 							
-																						<!-- Media Item -->
+							<!-- Media Item -->
 							<div class="media-item animate-onscroll ">
 								
 								<div class="media-image">

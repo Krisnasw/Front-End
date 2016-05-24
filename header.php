@@ -156,16 +156,16 @@
 											<ul>
 												<li><a href="#">Indonesia</a>
 													<ul>
-														<li><a href="mou.blade.php">MOU</a></li>
-														<li><a href="moa.blade.php">MOA</a></li>
-														<li><a href="wp.blade.php">WP</a></li>
+														<li><a href="#">MOU</a></li>
+														<li><a href="#">MOA</a></li>
+														<li><a href="#">WP</a></li>
 													</ul>
 												</li>
-												<li><a href="ascino.blade.php">ASEAN China</a></li>
-												<li><a href="asjav.blade.php">ASEAN Japan</a></li>
-												<li><a href="asger.blade.php">ASEAN German</a></li>
-												<li><a href="askor.blade.php">ASEAN Korea</a></li>
-												<li><a href="asfra.blade.php">ASEAN France</a></li>
+												<li><a href="http://seachina.wordpress.com/">ASEAN China</a></li>
+												<li><a href="http://gojapan.seamolec.org/">ASEAN Japan</a></li>
+												<li><a href="http://willkommen.seamolec.org/">ASEAN German</a></li>
+												<li><a href="http://seakorea.wordpress.com/">ASEAN Korea</a></li>
+												<li><a href="#">ASEAN France</a></li>
 											</ul>
 										</li>
 										<li><a href="consul.blade.php">Consulting</a></li>

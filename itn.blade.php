@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<!-- Title -->
-		<title>IT Content | SEAMEO SEAMOLEC</title>
+		<title>IT Network | SEAMEO SEAMOLEC</title>
 		
 		<?php include('style.blade.php'); ?>
 		
@@ -38,13 +38,11 @@
 			<!-- Page Heading -->
 			<section class="section page-heading animate-onscroll">
 				
-				<h1>IT Content</h1>
-				<p class="breadcrumb"><a href="main-v1.html">Home</a> / IT Content</p>
+				<h1>IT Network</h1>
+				<p class="breadcrumb"><a href="main-v1.html">Home</a> / IT Network</p>
 				
 			</section>
 			<!-- Page Heading -->
-			
-
 			
 			<!-- Section -->
 			<section class="section full-width-bg gray-bg">
