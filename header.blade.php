@@ -11,7 +11,7 @@
 						<!-- Logo -->
 						<div id="logo" class="col-lg-3 col-md-3 col-sm-3">
 							
-							<a href="main-v1.php"><img src="img/logo.png" alt="SEAMEO SEAMOLEC LOGO"></a>
+							<a href="index.blade.php"><img src="img/logo.png" alt="SEAMEO SEAMOLEC LOGO"></a>
 							
 						</div>
 						<!-- /Logo -->					
@@ -62,7 +62,7 @@
 						<!-- Home -->
 						<li class="current-menu-item">
 						
-							<a href="main-v1.php"><i class="icons icon-home"></i>Homepage</a>
+							<a href="index.blade.php"><i class="icons icon-home"></i>Homepage</a>
 							
 						</li>
 						<!-- /Home -->

@@ -30,7 +30,7 @@
 			
 			
 			<!-- Header -->
-			<?php include('header.php'); ?>
+			<?php include('header.blade.php'); ?>
 			<!-- /Header -->
 			
 			
@@ -96,7 +96,7 @@ Training Information Desk: trainingteam@seamolec.org
 		</section>
 			
 			<!-- Footer -->
-			<?php include('footer.php'); ?>
+			<?php include('footer.blade.php'); ?>
 			<!-- /Footer -->
 			
 			<!-- Back To Top -->

@@ -115,7 +115,7 @@
 		<!-- Container -->
 		<div class="container">
 			
-			<?php include('header.php'); ?>
+			<?php include('header.blade.php'); ?>
 			
 		<section id="content">	
 			
@@ -181,7 +181,7 @@
 		
 		</section>
 
-		<?php include('footer.php'); ?>
+		<?php include('footer.blade.php'); ?>
 			
 			<!-- Back To Top -->
 			<a href="#" id="button-to-top"><i class="icons icon-up-dir"></i></a>

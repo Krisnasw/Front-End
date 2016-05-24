@@ -21,13 +21,13 @@
 	  js = d.createElement(s); js.id = id;
 	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
 	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>		
+	}(document, 'script', 'facebook-jssdk'));</script>
 		<!-- Container -->
 		<div class="container">
 			
 			
 			<!-- Header -->
-			<?php include('header.php'); ?>
+			<?php include('header.blade.php'); ?>
 			<!-- /Header -->
 			
 			
@@ -79,7 +79,7 @@
 		</section>
 			
 			<!-- Footer -->
-			<?php include('footer.php'); ?>
+			<?php include('footer.blade.php'); ?>
 			<!-- /Footer -->
 			
 			<!-- Back To Top -->

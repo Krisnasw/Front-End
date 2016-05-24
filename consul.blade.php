@@ -28,7 +28,7 @@
 			
 			
 			<!-- Header -->
-			<?php include('header.php'); ?>
+			<?php include('header.blade.php'); ?>
 			<!-- /Header -->
 			
 			
@@ -72,7 +72,7 @@
 		</section>
 			
 			<!-- Footer -->
-			<?php include('footer.php'); ?>
+			<?php include('footer.blade.php'); ?>
 			<!-- /Footer -->
 			
 			
