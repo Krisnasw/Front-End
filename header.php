@@ -21,8 +21,7 @@
 						<div class="col-lg-5 col-md-4 col-sm-4">
 							
 						</div>
-						<!-- /Main Quote -->
-						
+						<!-- /Main Quote -->					
 						
 						
 						<!-- Newsletter -->
@@ -198,7 +197,7 @@
 								</li>
 								
 								<li>
-									<a href="ch.blade.php">Channel</a>
+									<a href="#">Channel</a>
 								</li>
 
 								<li>
@@ -207,10 +206,6 @@
 
 								<li>
 									<a href="sb.blade.php">Sources Book</a>
-								</li>
-
-								<li>
-									<a href="si.blade.php">Seminar International</a>
 								</li>
 
 							</ul>
@@ -227,7 +222,7 @@
 							
 								<li><a href="ar.blade.php">Annual Reports</a></li>
 								<li><a href="http://magazine.seamolec.org">Magazine</a></li>
-								<li><a href="nl.blade.php">News Letter</a></li>
+								<li><a href="#">News Letter</a></li>
 								
 							</ul>
 							
