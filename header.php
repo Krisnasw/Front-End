@@ -14,7 +14,7 @@
 							<a href="main-v1.php"><img src="img/logo.png" alt="SEAMEO SEAMOLEC LOGO"></a>
 							
 						</div>
-						<!-- /Logo -->						
+						<!-- /Logo -->					
 						
 						
 						<!-- Main Quote -->
@@ -87,11 +87,11 @@
 										<li><a href="core.blade.php">Core Values</a></li>
 										<li><a href="prog.blade.php">Programmes</a>
 											<ul>
-												<li><a href="socma.blade.php">SOCMA</a></li>
-												<li><a href="socd.blade.php">SOCD</a></li>
-												<li><a href="ds.blade.php">Digital Simulation</a></li>
-												<li><a href="magis.blade.php">Magis Camp</a></li>
-												<li><a href="pbl.blade.php">Project Based Learning</a></li>
+												<li><a href="http://socma.seamolec.org">SOCMA</a></li>
+												<li><a href="#">SOCD</a></li>
+												<li><a href="http://simulasidigital.seamolec.org">Digital Simulation</a></li>
+												<li><a href="http://magiscamp.seamolec.org">Magis Camp</a></li>
+												<li><a href="#">Project Based Learning</a></li>
 											</ul>
 										</li>
 										<li><a href="goal.blade.php">Goal and Objectives</a></li>
@@ -169,7 +169,7 @@
 											</ul>
 										</li>
 										<li><a href="consul.blade.php">Consulting</a></li>
-										<li><a href="icc.blade.php">Inter Colaboration Center</a></li>
+										<li><a href="http://intercenter.seamolec.org/">Inter Colaboration Center</a></li>
 
 									</ul>
 								
@@ -194,7 +194,7 @@
 								</li>
 								
 								<li>
-									<a href="rg.blade.php">Research Grants</a>
+									<a href="http://hibahpenelitian.seamolec.org">Research Grants</a>
 								</li>
 								
 								<li>
@@ -226,7 +226,7 @@
 							<ul>
 							
 								<li><a href="ar.blade.php">Annual Reports</a></li>
-								<li><a href="mag.blade.php">Magazine</a></li>
+								<li><a href="http://magazine.seamolec.org">Magazine</a></li>
 								<li><a href="nl.blade.php">News Letter</a></li>
 								
 							</ul>

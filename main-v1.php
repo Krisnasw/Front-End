@@ -103,8 +103,7 @@
 				</div>
 				
 			</section>
-			<!-- /Section -->
-			
+			<!-- /Section -->			
 			
 			<!-- Section -->
 			<section class="section full-width-bg gray-bg">
@@ -135,7 +134,7 @@
 							
 						</div>
 						<!-- /Blog Post -->
-												
+
 						<!-- Owl Carousel -->
 						<div class="owl-carousel-container">
 							
